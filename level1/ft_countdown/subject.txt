@@ -1,0 +1,25 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    subject.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jalgier <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/05 13:04:44 by jalgier           #+#    #+#              #
+#    Updated: 2018/06/05 13:04:47 by jalgier          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+Assignment name  : ft_countdown
+Expected files   : ft_countdown.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that displays all digits in descending order, followed by a
+newline.
+
+Example:
+$> ./ft_countdown | cat -e
+9876543210$
+$>

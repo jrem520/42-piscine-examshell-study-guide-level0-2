@@ -1,0 +1,30 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    subject.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jalgier <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/05 13:19:35 by jalgier           #+#    #+#              #
+#    Updated: 2018/06/05 13:20:12 by jalgier          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Assignment name  : rev_print
+Expected files   : rev_print.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that takes a string, and displays the string in reverse
+followed by a newline.
+
+If the number of parameters is not 1, the program displays a newline.
+
+Examples:
+
+$> ./rev_print "zaz" | cat -e
+zaz$
+$> ./rev_print "dub0 a POIL" | cat -e
+LIOP a 0bud$
+$> ./rev_print | cat -e
+$

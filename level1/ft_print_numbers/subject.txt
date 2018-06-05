@@ -1,0 +1,23 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    subject.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jalgier <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/05 13:05:58 by jalgier           #+#    #+#              #
+#    Updated: 2018/06/05 13:06:09 by jalgier          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Assignment name  : ft_print_numbers
+Expected files   : ft_print_numbers.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a function that displays all digits in ascending order.
+
+Your function must be declared as follows:
+
+void	ft_print_numbers(void);
+

@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    subject.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jalgier <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/05 13:08:27 by jalgier           #+#    #+#              #
+#    Updated: 2018/06/05 13:08:38 by jalgier          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Assignment name  : ft_strcpy
+Expected files   : ft_strcpy.c
+Allowed functions: 
+--------------------------------------------------------------------------------
+
+Reproduce the behavior of the function strcpy (man strcpy).
+
+Your function must be declared as follows:
+
+char    *ft_strcpy(char *s1, char *s2);

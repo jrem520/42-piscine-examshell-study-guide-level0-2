@@ -1,0 +1,23 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    subject.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jalgier <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/05 13:09:58 by jalgier           #+#    #+#              #
+#    Updated: 2018/06/05 13:10:02 by jalgier          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Assignment name  : ft_strlen
+Expected files   : ft_strlen.c
+Allowed functions: 
+--------------------------------------------------------------------------------
+
+Write a function that returns the length of a string.
+
+Your function must be declared as follows:
+
+int	ft_strlen(char *str);
+

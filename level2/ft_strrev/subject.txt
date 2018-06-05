@@ -1,0 +1,24 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    subject.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jalgier <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/05 14:16:15 by jalgier           #+#    #+#              #
+#    Updated: 2018/06/05 14:16:28 by jalgier          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Assignment name  : ft_strrev
+Expected files   : ft_strrev.c
+Allowed functions: 
+--------------------------------------------------------------------------------
+
+Write a function that reverses (in-place) a string.
+
+It must return its parameter.
+
+Your function must be declared as follows:
+
+char    *ft_strrev(char *str);
